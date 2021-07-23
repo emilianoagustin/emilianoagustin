@@ -42,7 +42,7 @@
 </div>
 <div align="center">
       <p>Let's get in touch!</p>
-      <a href='pintos.emiliano@gmail.com'>
+      <a href='mailto:pintos.emiliano@gmail.com'>
       <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">
       </a>
       <a href='https://www.linkedin.com/in/emiliano-agust%C3%ADn-pintos/' target='_blank'>
