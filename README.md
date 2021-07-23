@@ -36,6 +36,8 @@
 
 <div align="center">
       <h2>Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , my name is Emiliano and i'm a FullStack Developer</h2>
+</div>
+<div align="left">
       <p>I'm from Buenos Aires, Argentina. I'm passionate by programming, new technologies and I'm always willing to learn a new language and collaborate in awesome projects!</p>
 </div>
 <div align="center">
@@ -51,8 +53,8 @@
       </a>
 </div>
 
+  # <h3>I'm currently use this stack of languages and tools</h3>
 <div align='left'>
-  <p>I'm currently use this stack of languages and tools</p>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
