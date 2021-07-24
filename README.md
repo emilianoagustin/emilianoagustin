@@ -1,35 +1,3 @@
-<!-- (setq markdown-xhtml-header-content
-"<style>
-    @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
-    
-    .main_container{
-      display: flex;
-      flex-direction: column;
-      padding: 10px;
-    }
-    .container{
-      display: flex;
-      font-family: 'Raleway';
-      margin: 10px auto;
-    }
-    .container_left{
-      padding: 10px;
-    }
-    .container_left_title{
-      font-size: 35px;
-    }
-    .container_left_subtitle{
-      font-size: 20px;
-    }
-    .container_stats{
-      margin: 10px auto;
-    }
-    .container_stack{
-      margin: 50px auto;
-      padding: 10px;
-    }
-</style>") -->
-
 <div align='center'>
       <img src="https://i.imgur.com/8MupZHY.gif" width="600px" />
 </div>
