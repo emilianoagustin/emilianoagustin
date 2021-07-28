@@ -67,7 +67,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=emilianoagustin&hide=stars&show_icons=true&theme=dracula&line_height=32">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianoagustin&count_private=true&theme=dracula">
   </div>
+  <a href='https://github.com/emilianoagustin/Dogger-APP' target='_blank'>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=emilianoagustin&repo=Dogger-APP&theme=dracula">
+  </a>
+  <a href='https://github.com/emilianoagustin/breaking-bad-app' target='_blank'>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=emilianoagustin&repo=breaking-bad-app&theme=dracula">
-
+  </a>
 </div>
